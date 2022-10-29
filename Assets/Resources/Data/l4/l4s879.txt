@@ -1,0 +1,7 @@
+ISDN
+DIN
+DIS
+IND
+INS
+SID
+SIN

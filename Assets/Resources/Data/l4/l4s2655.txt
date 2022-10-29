@@ -1,0 +1,5 @@
+PERM
+PRE
+REM
+REP
+RPM

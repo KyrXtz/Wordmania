@@ -1,0 +1,7 @@
+SIGN
+GIN
+GIS
+GNS
+INS
+SIG
+SIN

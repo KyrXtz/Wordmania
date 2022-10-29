@@ -1,0 +1,6 @@
+OHMS
+HOM
+MHO
+OHM
+SHO
+SOH

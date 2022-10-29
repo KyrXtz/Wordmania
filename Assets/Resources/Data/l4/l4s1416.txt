@@ -1,0 +1,6 @@
+TYPE
+PET
+PTE
+PTY
+YEP
+YET

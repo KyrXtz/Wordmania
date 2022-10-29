@@ -1,0 +1,7 @@
+BASH
+ABS
+ASB
+ASH
+BAH
+BAS
+SAB

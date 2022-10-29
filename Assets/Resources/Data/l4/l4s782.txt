@@ -1,0 +1,6 @@
+FAST
+AFT
+AST
+FAS
+FAT
+SAT

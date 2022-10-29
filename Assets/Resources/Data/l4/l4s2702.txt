@@ -1,0 +1,5 @@
+TIRE
+IRE
+RET
+RTE
+TIE

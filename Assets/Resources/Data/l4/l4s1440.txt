@@ -1,0 +1,6 @@
+FOAM
+FAM
+MAO
+MOA
+OAF
+OAM

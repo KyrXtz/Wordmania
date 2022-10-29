@@ -1,0 +1,6 @@
+FROM
+FOR
+FRO
+MOR
+ORF
+ROM

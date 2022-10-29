@@ -1,0 +1,6 @@
+STOA
+AST
+OAT
+SAT
+SOT
+TAO

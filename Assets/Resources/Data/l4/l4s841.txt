@@ -1,0 +1,6 @@
+NAME
+EAM
+MAN
+MNA
+NAE
+NAM

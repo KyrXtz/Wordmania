@@ -1,0 +1,6 @@
+NIDE
+DIE
+DIN
+END
+IDE
+IND

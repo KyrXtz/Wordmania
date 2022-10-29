@@ -1,0 +1,6 @@
+GOBY
+BOG
+BOY
+GOB
+GOY
+YOB

@@ -1,0 +1,6 @@
+GLOB
+BOG
+GLB
+GOB
+LOB
+LOG

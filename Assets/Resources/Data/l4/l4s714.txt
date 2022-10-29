@@ -1,0 +1,7 @@
+LEFT
+EFL
+EFT
+ELF
+ELT
+FET
+LET

@@ -1,0 +1,7 @@
+SNIB
+BIN
+BIS
+INS
+NIB
+SIB
+SIN

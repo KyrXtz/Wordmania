@@ -1,0 +1,6 @@
+KIND
+DIN
+IND
+INK
+KID
+KIN

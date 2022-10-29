@@ -1,0 +1,7 @@
+MIPS
+IMP
+MIS
+PIM
+PSI
+SIM
+SIP

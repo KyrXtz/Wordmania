@@ -1,0 +1,5 @@
+DUAL
+AUD
+DAL
+LAD
+LUD

@@ -1,0 +1,5 @@
+TERN
+ERN
+NET
+RET
+RTE

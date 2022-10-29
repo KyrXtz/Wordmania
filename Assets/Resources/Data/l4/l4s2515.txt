@@ -1,0 +1,4 @@
+EXOR
+ORE
+REX
+ROE

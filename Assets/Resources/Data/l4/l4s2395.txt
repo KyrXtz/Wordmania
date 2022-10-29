@@ -1,0 +1,3 @@
+KHIR
+HIR
+IRK

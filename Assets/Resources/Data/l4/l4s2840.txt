@@ -1,0 +1,5 @@
+RIND
+DIN
+IND
+RID
+RIN

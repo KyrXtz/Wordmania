@@ -1,0 +1,7 @@
+CLAM
+CAM
+LAC
+LAM
+LCM
+MAC
+MAL

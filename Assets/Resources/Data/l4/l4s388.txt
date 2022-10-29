@@ -1,0 +1,5 @@
+ADAT
+ADA
+ATA
+DAT
+TAD

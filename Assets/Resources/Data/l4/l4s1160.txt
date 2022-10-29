@@ -1,0 +1,5 @@
+MARM
+ARM
+MAM
+MAR
+RAM

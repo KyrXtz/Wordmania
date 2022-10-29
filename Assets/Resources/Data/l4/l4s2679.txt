@@ -1,0 +1,7 @@
+PIRN
+IPR
+NIP
+PIN
+PIR
+RIN
+RIP

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dog 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2006367701, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -363723206, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -951430757, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 193055726, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -444420696, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 982813999, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 604700731, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 216894328, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 946629950, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 1301365628, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 805935042, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -283732979, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 614856912, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -844415878, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 1703689298, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 152224602, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -1289686251, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 1231094246, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 1723664254, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -1332682246, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -795028234, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 901928671, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 1677727638, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -1590111446, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -1384576532, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -403581797, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -544422568, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -1179808399, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 712591010, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -116083867, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -2131744641, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -297924252, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: -442924326, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  - {fileID: 1188509838, guid: 2236b8f856935b54c9f2ed9a7916583d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 32
+  - 33
+  - 30
+  - 31
+  - 25
+  - 24
+  - 27
+  - 34
+  - 26
+  - 21
+  - 20
+  - 23
+  - 22
+  - 29
+  - 28
+  - 18
+  - 19
+  - 14
+  - 15
+  - 16
+  - 17
+  - 10
+  - 11
+  - 12
+  - 13
+  - 5
+  - 4
+  - 7
+  - 6
+  - 1
+  - 3
+  - 2
+  - 9
+  - 8
+  m_RenderDataMap: {}
+  m_Tag: Dog 2
+  m_IsVariant: 0

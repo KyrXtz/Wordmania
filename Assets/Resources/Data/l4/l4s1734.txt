@@ -1,0 +1,6 @@
+PATA
+APT
+ATA
+PAT
+PTA
+TAP

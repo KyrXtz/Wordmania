@@ -1,0 +1,6 @@
+PIND
+DIN
+DIP
+IND
+NIP
+PIN

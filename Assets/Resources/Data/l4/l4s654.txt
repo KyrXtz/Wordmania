@@ -1,0 +1,4 @@
+ITEM
+MET
+MIT
+TIE

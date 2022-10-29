@@ -1,0 +1,6 @@
+NEMA
+EAM
+MAN
+MNA
+NAE
+NAM

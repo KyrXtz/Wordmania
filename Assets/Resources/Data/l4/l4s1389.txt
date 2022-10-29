@@ -1,0 +1,5 @@
+MINX
+MIN
+MIX
+NIM
+NIX

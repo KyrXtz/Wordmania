@@ -1,0 +1,4 @@
+NIFF
+FIN
+IFF
+INF

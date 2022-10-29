@@ -1,0 +1,5 @@
+SKAT
+ASK
+AST
+SAT
+TSK

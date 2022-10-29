@@ -1,0 +1,7 @@
+TRIP
+IPR
+PIR
+PIT
+RIP
+RPT
+TIP

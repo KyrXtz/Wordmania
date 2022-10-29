@@ -1,0 +1,7 @@
+MIND
+DIM
+DIN
+IND
+MID
+MIN
+NIM

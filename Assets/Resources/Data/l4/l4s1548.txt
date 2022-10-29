@@ -1,0 +1,5 @@
+SINE
+INS
+ISE
+SEI
+SIN

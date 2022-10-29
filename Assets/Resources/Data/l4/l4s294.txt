@@ -1,0 +1,7 @@
+SPUD
+DSP
+DUP
+PUD
+PUS
+SUP
+UPS

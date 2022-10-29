@@ -1,0 +1,6 @@
+BINT
+BIN
+BIT
+NIB
+NIT
+TIN

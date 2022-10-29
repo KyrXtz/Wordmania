@@ -1,0 +1,4 @@
+EMIT
+MET
+MIT
+TIE

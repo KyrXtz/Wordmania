@@ -1,0 +1,4 @@
+CHUNK
+HUCK
+HUNK
+HUN

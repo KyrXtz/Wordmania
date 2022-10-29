@@ -1,0 +1,4 @@
+SORT
+ORT
+ROT
+SOT

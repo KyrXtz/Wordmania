@@ -1,0 +1,6 @@
+DINT
+DIN
+DIT
+IND
+NIT
+TIN

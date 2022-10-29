@@ -1,0 +1,6 @@
+MIDE
+DEM
+DIE
+DIM
+IDE
+MID

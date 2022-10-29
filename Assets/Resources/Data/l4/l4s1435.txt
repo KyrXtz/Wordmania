@@ -1,0 +1,4 @@
+STOG
+SOT
+STG
+TOG

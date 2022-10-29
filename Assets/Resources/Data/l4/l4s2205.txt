@@ -1,0 +1,7 @@
+PROM
+MOP
+MOR
+POM
+PRO
+ROM
+RPM

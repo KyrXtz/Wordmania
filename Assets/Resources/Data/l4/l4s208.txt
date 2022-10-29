@@ -1,0 +1,6 @@
+KELT
+ELK
+ELT
+KET
+LEK
+LET

@@ -1,0 +1,7 @@
+GRUB
+BUG
+BUR
+GUR
+RUB
+RUG
+URB

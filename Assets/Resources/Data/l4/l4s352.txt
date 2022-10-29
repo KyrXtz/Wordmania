@@ -1,0 +1,6 @@
+FIND
+DIN
+FID
+FIN
+IND
+INF

@@ -1,0 +1,4 @@
+WALL
+ALL
+AWL
+LAW

@@ -1,0 +1,4 @@
+GENS
+ENG
+GNS
+NEG

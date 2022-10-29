@@ -1,0 +1,5 @@
+TINT
+NIT
+TIN
+TIT
+TNT

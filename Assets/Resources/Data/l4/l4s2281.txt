@@ -1,0 +1,6 @@
+STUB
+BTU
+BUS
+BUT
+SUB
+TUB

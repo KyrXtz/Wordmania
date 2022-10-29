@@ -1,0 +1,7 @@
+MARL
+ARM
+LAM
+LAR
+MAL
+MAR
+RAM

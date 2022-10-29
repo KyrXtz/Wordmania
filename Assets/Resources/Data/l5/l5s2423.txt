@@ -1,0 +1,6 @@
+BRINY
+BIN
+NIB
+RIB
+RIN
+YIN

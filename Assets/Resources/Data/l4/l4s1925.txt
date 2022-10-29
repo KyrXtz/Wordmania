@@ -1,0 +1,5 @@
+MUST
+MUT
+STM
+SUM
+TUM

@@ -1,0 +1,6 @@
+TACH
+ACH
+ACT
+CAT
+HAT
+TCH

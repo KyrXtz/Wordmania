@@ -1,0 +1,7 @@
+BIND
+BID
+BIN
+DIB
+DIN
+IND
+NIB

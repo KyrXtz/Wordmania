@@ -1,0 +1,6 @@
+SIGIL
+GIS
+LIG
+LIS
+SIG
+SIL

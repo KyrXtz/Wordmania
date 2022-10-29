@@ -1,0 +1,7 @@
+OPUS
+POS
+PUS
+SOP
+SOU
+SUP
+UPS

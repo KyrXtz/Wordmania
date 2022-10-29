@@ -1,0 +1,7 @@
+SPIN
+INS
+NIP
+PIN
+PSI
+SIN
+SIP

@@ -1,0 +1,6 @@
+WORD
+DOR
+DOW
+ROD
+ROW
+WOD

@@ -1,0 +1,6 @@
+PALL
+ALL
+ALP
+APL
+LAP
+PAL

@@ -1,0 +1,5 @@
+STRUT
+RUST
+RUT
+TUR
+TUT

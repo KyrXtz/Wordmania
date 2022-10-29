@@ -1,0 +1,5 @@
+INTO
+NIT
+NOT
+TIN
+TON

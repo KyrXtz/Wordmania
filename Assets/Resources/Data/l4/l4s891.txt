@@ -1,0 +1,6 @@
+SANE
+ANS
+NAE
+SAE
+SAN
+SEA

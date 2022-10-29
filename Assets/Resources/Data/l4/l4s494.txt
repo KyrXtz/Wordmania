@@ -1,0 +1,6 @@
+RIMU
+IMU
+MIR
+RIM
+RUM
+URI

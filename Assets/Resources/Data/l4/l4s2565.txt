@@ -1,0 +1,7 @@
+PINT
+NIP
+NIT
+PIN
+PIT
+TIN
+TIP

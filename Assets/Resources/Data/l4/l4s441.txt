@@ -1,0 +1,4 @@
+CLAG
+GAL
+LAC
+LAG

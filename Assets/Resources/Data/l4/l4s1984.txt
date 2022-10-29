@@ -1,0 +1,7 @@
+TRUE
+RET
+RTE
+RUE
+RUT
+TUR
+UTE

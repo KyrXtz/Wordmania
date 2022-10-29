@@ -1,0 +1,4 @@
+EXITE
+EXIT
+TEE
+TIE

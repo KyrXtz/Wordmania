@@ -1,0 +1,4 @@
+BOTH
+BOT
+HOB
+HOT

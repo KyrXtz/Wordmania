@@ -1,0 +1,5 @@
+HAST
+ASH
+AST
+HAT
+SAT
